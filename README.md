@@ -1,4 +1,5 @@
 # **Toxicity Classification Workflow**
+
 * This project builds a **machine learning pipeline** to classify compounds as Toxic or NonToxic using QSAR molecular descriptors.
 
 * The dataset is provided in **Toxicity Dataset.csv**, with the target column named Class (renamed to class in code for consistency).
